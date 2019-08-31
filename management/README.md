@@ -1,6 +1,3 @@
-## Management
-node.js와 react의 연동으로 첫 프로젝트를 진행합니다.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
